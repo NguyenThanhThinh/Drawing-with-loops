@@ -89,6 +89,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="images\empty-star.png" />
+    <Content Include="images\full-star.png" />
+    <Content Include="images\half-star.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
